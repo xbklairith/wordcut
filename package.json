@@ -43,6 +43,7 @@
   "dependencies": {
     "body": "*",
     "chai": "*",
+    "express": "^4.15.2",
     "glob": "^5.0.14",
     "mocha": "*",
     "underscore": "*"
